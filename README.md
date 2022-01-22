@@ -1,1 +1,1 @@
-# run npm start at once
+# Run "npm start" once you finished setting everything up.
